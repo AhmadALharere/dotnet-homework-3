@@ -1,0 +1,11 @@
+C:\Users\MEDIA\Desktop\4th year\2th season\SE2\UnitTestDemo\MathLibrary\bin\Debug\net9.0\MathLibrary.deps.json
+C:\Users\MEDIA\Desktop\4th year\2th season\SE2\UnitTestDemo\MathLibrary\bin\Debug\net9.0\MathLibrary.dll
+C:\Users\MEDIA\Desktop\4th year\2th season\SE2\UnitTestDemo\MathLibrary\bin\Debug\net9.0\MathLibrary.pdb
+C:\Users\MEDIA\Desktop\4th year\2th season\SE2\UnitTestDemo\MathLibrary\obj\Debug\net9.0\MathLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MEDIA\Desktop\4th year\2th season\SE2\UnitTestDemo\MathLibrary\obj\Debug\net9.0\MathLibrary.AssemblyInfoInputs.cache
+C:\Users\MEDIA\Desktop\4th year\2th season\SE2\UnitTestDemo\MathLibrary\obj\Debug\net9.0\MathLibrary.AssemblyInfo.cs
+C:\Users\MEDIA\Desktop\4th year\2th season\SE2\UnitTestDemo\MathLibrary\obj\Debug\net9.0\MathLibrary.csproj.CoreCompileInputs.cache
+C:\Users\MEDIA\Desktop\4th year\2th season\SE2\UnitTestDemo\MathLibrary\obj\Debug\net9.0\MathLibrary.dll
+C:\Users\MEDIA\Desktop\4th year\2th season\SE2\UnitTestDemo\MathLibrary\obj\Debug\net9.0\refint\MathLibrary.dll
+C:\Users\MEDIA\Desktop\4th year\2th season\SE2\UnitTestDemo\MathLibrary\obj\Debug\net9.0\MathLibrary.pdb
+C:\Users\MEDIA\Desktop\4th year\2th season\SE2\UnitTestDemo\MathLibrary\obj\Debug\net9.0\ref\MathLibrary.dll
