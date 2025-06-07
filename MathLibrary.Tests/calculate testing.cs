@@ -31,7 +31,7 @@ public void Multiply_PositiveAndNegative_ReturnsNegative()
     Assert.Equal(-6, result);
 }
 [Fact]
-public void Multiply_TowNegative_ReturnsNegative()
+public void Multiply_TowNegative_ReturnsPositive()
 {
     // Arrange
     int a = -3, b = -2;
