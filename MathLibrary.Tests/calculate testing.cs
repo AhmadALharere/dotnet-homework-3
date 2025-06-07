@@ -81,7 +81,7 @@ public void Divide_NegativeByPositive_ReturnsNegative()
     Assert.Equal(-2, result);
 }
 [Fact]
-public void Divide_TowNegative_ReturnsNegative()
+public void Divide_TowNegative_ReturnsPositive()
 {
     // Arrange
     int a = -8, b =-4;
